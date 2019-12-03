@@ -1,0 +1,8 @@
+{
+  "name": "@dword-design/test2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dword-design/test2.git",
+  "author": "dword <sebastianlandw@gmail.com>",
+  "license": "MIT"
+}
